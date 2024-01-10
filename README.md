@@ -2,6 +2,8 @@
 
 This PowerShell script is designed to identify users in Active Directory who are marked as "disabled" in the Description field but are still enabled and are members of their respective groups.
 
+![Demo](https://github.com/Destroyer7s/DisabledAccountCheck/blob/main/demo.png)
+
 ## Prerequisites
 
 - Ensure that the Active Directory module is installed. You can import it using the following command:
